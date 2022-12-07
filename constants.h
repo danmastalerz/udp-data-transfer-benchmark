@@ -1,0 +1,10 @@
+//
+// Created by danielmastalerz on 02.12.22.
+//
+
+#ifndef UDP_FILE_TRANSFER_CONSTANTS_H
+#define UDP_FILE_TRANSFER_CONSTANTS_H
+
+#define MAX_PACKET_SIZE 65000
+
+#endif //UDP_FILE_TRANSFER_CONSTANTS_H
